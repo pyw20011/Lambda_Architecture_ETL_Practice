@@ -5,7 +5,7 @@
 
 <img width="1100" alt="프로세스 절차" src="https://github.com/user-attachments/assets/14b95c35-5892-4508-94e7-ed41ce57d4eb" />
 batch 처리와 streaming 처리를 동시에 진행하는 람다 아키텍처 기반의 ETL 프로세스이며,     
-다음 절차들로 구성되어 있습니다.<br>
+다음 절차들로 구성되어 있습니다.<br><br>
 
 
 1. FRED(연방 준비 은행 경제 데이터)로부터 데이터를 추출하여 HDFS에 저장
