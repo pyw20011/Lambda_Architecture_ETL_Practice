@@ -10,5 +10,5 @@ batch 처리와 streaming 처리를 동시에 진행하는 람다 아키텍처 �
 2. 아파치 카프카를 통해 HDFS에서 Spark로 데이터 옮기기
 3. Spark SQL을 이용하여 MySQL 데이터마트로 데이터 적재
 4. Spark Structured Streaming을 이용하여 MongoDB 데이터마트로 데이터 적재
-5. 각 데이터베이스에서 데이터를 추출하여 활용
+5. 각 데이터베이스에서 데이터를 추출하여 활용    
 의 절차로 이루어집니다.
