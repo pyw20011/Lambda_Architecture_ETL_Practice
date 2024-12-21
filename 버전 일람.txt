@@ -1,0 +1,7 @@
+Anaconda : 2021.11
+Java JDK : 11.0.24
+Hadoop : 3.3.2
+Apache Kafka : 2.13-3.2.0
+Apache Spark : 3.1.3-3.2
+MySQL : 8.0.40
+MongoDB : 8.0.4
