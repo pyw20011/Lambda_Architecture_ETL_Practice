@@ -1,4 +1,5 @@
 Anaconda : 2021.11
+  - Python : 3.9
 Java JDK : 11.0.24
 Hadoop : 3.3.2
 Apache Kafka : 2.13-3.2.0
